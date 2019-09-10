@@ -3,16 +3,16 @@
 #
 # You can use these IP addresses to whitelist SSL traffic by IP address instead of by FQDN.
 #
-# Last Updated 20190627
+# Last Updated 20190909
 #
 falconapi.laggar.gcw.crowdstrike.com
-falcon.laggar.gcw.crowdstrike.com
 falconapi-laggar01-g-1129225957.us-gov-west-1.elb.amazonaws.com
+falcon.laggar.gcw.crowdstrike.com
 laggar-falconui01-g-245478519.us-gov-west-1.elb.amazonaws.com
-lfodown01-laggar-gcw.cloudsink.net
-ELB-Laggar-P-LFO-DOWNLOAD-1265997121.us-gov-west-1.elb.amazonaws.com
 firehose.laggar.gcw.crowdstrike.com
 falconhose-laggar01-g-720386815.us-gov-west-1.elb.amazonaws.com
+lfodown01-laggar-gcw.cloudsink.net
+ELB-Laggar-P-LFO-DOWNLOAD-1265997121.us-gov-west-1.elb.amazonaws.com
 ts01-laggar-gcw.cloudsink.net
 sensorproxy-laggar-g-524628337.us-gov-west-1.elb.amazonaws.com
 52.61.62.106
@@ -91,7 +91,7 @@ sensorproxy-laggar-g-524628337.us-gov-west-1.elb.amazonaws.com
 2620:108:D00F::343d:5d7f
 2620:108:D00F::343d:60ca
 2620:108:D00F::607f:27c7
-52.61.25.210
+ 52.61.25.210
 96.127.89.44
 52.222.108.7
 52.61.2.4
