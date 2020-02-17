@@ -2,13 +2,9 @@
 # EU Cloud IPs
 # You can use these IP addresses to whitelist SSL traffic by IP address instead of by FQDN.
 #
-# Last Updated 20200102
+# Last Updated 20200217
 #
-lfodown01-lanner-lion.cloudsink.net
 ts01-lanner-lion.cloudsink.net
-18.184.114.155
-18.194.8.224
-3.121.13.180
 3.121.187.176
 3.121.238.86
 3.121.6.180
