@@ -3,7 +3,7 @@
 # If you’re using GovCloud, see Falcon on GovCloud IPs. If you’re using EU Cloud, see Falcon on EU Cloud IPs.
 # You can use these IP addresses to whitelist SSL traffic by IP address instead of by FQDN.
 #
-# Last Updated 20200102
+# Last Updated 20200218
 #
 lfodown01-b.cloudsink.net
 ts01-b.cloudsink.net
