@@ -3,7 +3,7 @@
 #
 # You can use these IP addresses to whitelist SSL traffic by IP address instead of by FQDN.
 #
-# Last Updated 20200102
+# Last Updated 20200218
 #
 elb-laggar-p-lfo-download-1265997121.us-gov-west-1.elb.amazonaws.com
 falcon.laggar.gcw.crowdstrike.com
