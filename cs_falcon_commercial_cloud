@@ -3,7 +3,7 @@
 # If you’re using GovCloud, see Falcon on GovCloud IPs. If you’re using EU Cloud, see Falcon on EU Cloud IPs.
 # You can use these IP addresses to whitelist SSL traffic by IP address instead of by FQDN.
 #
-# Last Updated 20200723
+# Last Updated 20210323
 #
 assets-public.falcon.crowdstrike.com
 assets.falcon.crowdstrike.com
@@ -156,3 +156,17 @@ ts01-gyr-maverick.cloudsink.net
 54.67.92.206
 54.67.96.255
 54.67.99.247
+lfodown01-lanner-lion.cloudsink.net
+ts01-lanner-lion.cloudsink.net
+18.184.114.155
+18.194.8.224
+18.196.94.202
+3.121.13.180
+3.121.187.176
+3.121.238.86
+3.121.28.37
+3.121.6.180
+52.29.26.172
+ffc.us-1.crowdstrike.com
+ffc.us-2.crowdstrike.com
+ffc.eu-1.crowdstrike.com
