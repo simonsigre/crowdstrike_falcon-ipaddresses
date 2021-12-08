@@ -3,12 +3,16 @@
 # If you’re using GovCloud, see Falcon on GovCloud IPs. If you’re using EU Cloud, see Falcon on EU Cloud IPs.
 # You can use these IP addresses to whitelist SSL traffic by IP address instead of by FQDN.
 #
-# Last Updated 20210323
+# Last Updated 20211208
 #
-assets-public.falcon.crowdstrike.com
 assets.falcon.crowdstrike.com
-falcon.crowdstrike.com
+assets-public.falcon.crowdstrike.com
 falconapi.us-2.crowdstrike.com
+falcon.crowdstrike.com
+ffc.eu-1.crowdstrike.com
+ffc.laggar.gcw.crowdstrike.com
+ffc.us-1.crowdstrike.com
+ffc.us-2.crowdstrike.com
 firehose.us-2.crowdstrike.com
 lfodown01-b.cloudsink.net
 lfodown01-gyr-maverick.cloudsink.net
@@ -19,13 +23,19 @@ ts01-gyr-maverick.cloudsink.net
 13.56.121.58
 13.56.127.239
 13.57.54.63
+15.200.14.201
+160.1.78.140
+18.193.144.218
+3.127.43.50
 34.209.79.111
 34.210.186.129
 35.162.224.228
 35.162.239.174
+3.64.81.130
 44.224.200.221
 44.225.216.237
 44.227.134.78
+44.241.254.47
 50.18.194.39
 50.18.198.237
 52.10.219.156
@@ -33,6 +43,7 @@ ts01-gyr-maverick.cloudsink.net
 52.52.119.33
 52.52.149.168
 52.52.239.58
+52.52.60.244
 52.53.77.89
 52.8.134.130
 52.8.141.1
@@ -67,7 +78,9 @@ ts01-gyr-maverick.cloudsink.net
 54.183.51.31
 54.183.51.69
 54.183.52.221
+54.188.85.187
 54.193.117.199
+54.193.196.61
 54.193.27.226
 54.193.29.47
 54.193.67.98
@@ -143,30 +156,18 @@ ts01-gyr-maverick.cloudsink.net
 54.67.4.108
 54.67.41.192
 54.67.48.56
-54.67.5.136
 54.67.51.32
+54.67.5.136
 54.67.54.116
 54.67.6.201
 54.67.64.61
 54.67.68.88
 54.67.72.218
 54.67.78.134
-54.67.8.240
 54.67.80.244
+54.67.8.240
 54.67.92.206
 54.67.96.255
 54.67.99.247
-lfodown01-lanner-lion.cloudsink.net
-ts01-lanner-lion.cloudsink.net
-18.184.114.155
-18.194.8.224
-18.196.94.202
-3.121.13.180
-3.121.187.176
-3.121.238.86
-3.121.28.37
-3.121.6.180
-52.29.26.172
-ffc.us-1.crowdstrike.com
-ffc.us-2.crowdstrike.com
-ffc.eu-1.crowdstrike.com
+54.69.20.169
+96.127.77.135
