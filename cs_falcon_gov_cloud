@@ -3,13 +3,13 @@
 #
 # You can use these IP addresses to whitelist SSL traffic by IP address instead of by FQDN.
 #
-# Last Updated 20210323
+# Last Updated 20211208
 #
 elb-laggar-p-lfo-download-1265997121.us-gov-west-1.elb.amazonaws.com
-falcon.laggar.gcw.crowdstrike.com
 falconapi-laggar01-g-1129225957.us-gov-west-1.elb.amazonaws.com
 falconapi.laggar.gcw.crowdstrike.com
 falconhose-laggar01-g-720386815.us-gov-west-1.elb.amazonaws.com
+falcon.laggar.gcw.crowdstrike.com
 firehose.laggar.gcw.crowdstrike.com
 laggar-falconui01-g-245478519.us-gov-west-1.elb.amazonaws.com
 lfodown01-laggar-gcw.cloudsink.net
@@ -34,10 +34,10 @@ ts01-laggar-gcw.cloudsink.net
 52.222.46.86
 52.222.47.146
 52.222.48.202
-52.222.5.255
-52.222.5.73
 52.222.50.175
+52.222.5.255
 52.222.57.109
+52.222.5.73
 52.222.59.20
 52.222.71.144
 52.222.74.53
@@ -62,12 +62,12 @@ ts01-laggar-gcw.cloudsink.net
 52.61.14.45
 52.61.15.206
 52.61.17.222
-52.61.2.4
-52.61.2.52
 52.61.20.24
 52.61.22.116
 52.61.22.52
 52.61.23.238
+52.61.2.4
+52.61.2.52
 52.61.25.208
 52.61.25.210
 52.61.27.7
@@ -141,18 +141,18 @@ ts01-laggar-gcw.cloudsink.net
 52.61.86.16
 52.61.87.201
 52.61.89.212
-52.61.9.149
-52.61.9.241
-52.61.9.57
 52.61.90.103
 52.61.91.144
 52.61.91.152
 52.61.91.2
+52.61.9.149
+52.61.9.241
 52.61.93.127
 52.61.93.190
 52.61.93.50
 52.61.94.17
 52.61.95.243
+52.61.9.57
 52.61.96.202
 52.61.96.38
 52.61.98.65
